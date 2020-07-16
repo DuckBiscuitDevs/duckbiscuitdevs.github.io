@@ -1,0 +1,9 @@
+{
+  "pg": [
+    {"img": "image_name.png", "date": "14/07/20", "username": "name of the person who said the quote (anonymous if they don't want to be known)", "icon": "this field is optional but it would be a url"},
+    {"etc...": "you get the idea"}
+  ],
+  "nonpg": [
+
+  ]
+}
