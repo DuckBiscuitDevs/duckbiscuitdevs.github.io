@@ -6,6 +6,6 @@
 
 
 
-Website by TechnoBiscuit/dev801
+Website (soon to be) by TechnoBiscuit/dev801
 
 Discord OOC images should be placed in the folder `/oocimg`
