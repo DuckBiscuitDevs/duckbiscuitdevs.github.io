@@ -1,0 +1,29 @@
+{
+    "biscuit": {
+        "header": {
+            "title": "This is the BotBiscuit bit.",
+            "text": "I can also edit the BG colour with the file.",
+            "link": "",
+            "image": "",
+            "bg": ""
+        }
+    },
+    "novo": {
+        "header": {
+            "title": "I can edit this JSON file",
+            "text": "to change the contents of the page",
+            "link": "",
+            "image": "",
+            "bg": ""
+        }
+    },
+    "devs": {
+        "header": {
+            "title": "It should work for all of them..?",
+            "text": "Idk what this colour is",
+            "link": "",
+            "image": "",
+            "bg": ""
+        }
+    }
+}

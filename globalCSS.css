@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+:root {
+    --acc-purple: #a034d5;
+    --acc-blue: #1277d3;
+    --nv-white: #ffffff;
+    --gr-black: #272727;
+    --bl-black: #3b3c41;
+    --nv-purple: #a133d5;
+    --nv-blue: #0081d5;
+}
+
+body {
+    font-family: 'Cabin', arial;
+    color: var(--nv-white);
+    background-color: var(--bl-black);
+    min-height: 100%;
+}
+
+main {
+    margin-top: 60px;
+}
+
+a {
+    color: var(--acc-blue);
+}
+
+a:hover {
+    color: var(--acc-purple);
+    text-decoration: none;
+}
+
+nav a {
+    color: var(--nv-white);
+}
+
+.purple {
+    background-color: var(--acc-purple);
+}
+
+.blue {
+    background-color: var(--acc-blue);
+}
+
+.white {
+    background-color: var(--nv-white);
+}
+
+.greyeyBlack {
+    background-color: var(--gr-black);
+}
+
+.blueBlack {
+    background-color: var(--bl-black);
+}
+
+.carousel, .carousel-item {
+    max-height: 400px;
+}
+
+.carousel-item .d-none {
+    display: block;
+}
