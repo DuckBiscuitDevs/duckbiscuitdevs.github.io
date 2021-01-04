@@ -72,5 +72,28 @@
 		"date": "30/6/2020",
 		"pg": false,
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/727511923343753274/unknown.png"
+	},
+	{
+		"date": "5/7/2020",
+		"pg": true,
+		"url": "https://cdn.discordapp.com/attachments/709034490579910730/729425519216689292/unknown.png"
+	},
+	{
+		"date": "9/7/2020",
+		"pg": true,
+		"url": "https://cdn.discordapp.com/attachments/709034490579910730/730725060406542366/unknown.png"
+	},
+	{
+		"date": "9/7/2020",
+		"pg": false,
+		"url": "https://cdn.discordapp.com/attachments/709034490579910730/730808948692877512/unknown.png"
+	},
+	{
+		"authors": [
+			"TechnoBiscuit#3540"
+		],
+		"date": "10/7/2020",
+		"pg": true,
+		"url": "https://cdn.discordapp.com/attachments/709034490579910730/731213290302341161/unknown.png"
 	}
 ]
