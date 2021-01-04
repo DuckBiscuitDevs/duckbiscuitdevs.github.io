@@ -3,10 +3,11 @@
     {
       "title": "Example",
       "date": "4/1/2021",
+      "pg": true,
       "extratext": "",
       "url": "https://via.placeholder.com/250",
       "footer": [
-        ".setFooter(___,", "___)"
+        ".setFooter(___, goes here", "___)"
       ]
     }
   ]
