@@ -1,13 +1,12 @@
-[
-	{
+[{
 		"title": "put stuff here if you want",
 		"authors": [
-		  "username, leave array empty if user(s) wish(es) to remain anonymous",
-		  "i require the beans"
-		]
+			"username, leave array empty if user(s) wish(es) to remain anonymous",
+			"i require the beans"
+		],
 		"date": "4/1/2021",
 		"pg": true,
-		"url": "https://via.placeholder.com/250",
+		"url": "https://via.placeholder.com/250"
 	},
 	{
 		"authors": [
@@ -365,7 +364,7 @@
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/765638439562772521/unknown.png"
 	},
 	{
-		"title": "Programming in a nutshell"
+		"title": "Programming in a nutshell",
 		"authors": [
 			"Dukemz#7766"
 		],
@@ -381,7 +380,7 @@
 	{
 		"authors": [
 			"Dukemz#7766"
-		]
+		],
 		"date": "20/10/2020",
 		"pg": true,
 		"url": "https://cdn.discordapp.com/attachments/662037724315779103/748984076664569906/unknown.png"
@@ -407,7 +406,7 @@
 	{
 		"authors": [
 			"NovoBot Nightly#9540"
-		]
+		],
 		"date": "25/10/2020",
 		"pg": true,
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/769859421299015700/unknown.png"
@@ -504,7 +503,7 @@
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/780069155088629780/unknown.png"
 	},
 	{
-		"title": "AND HER NAME ISSSSSSSSSSSSS"
+		"title": "AND HER NAME ISSSSSSSSSSSSS",
 		"authors": [
 			"Dukemz#7766"
 		],
@@ -532,7 +531,7 @@
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/780160482840805416/unknown.png"
 	},
 	{
-		"title": "Perfect translation"
+		"title": "Perfect translation",
 		"authors": [
 			"The Translator#0728"
 		],
@@ -729,7 +728,7 @@
 	{
 		"title": "Life of a Discord Bot Dev",
 		"authors": [
-			"TechnoBiscuit#3540",
+			"TechnoBiscuit#3540"
 		],
 		"date": "22/12/2020",
 		"pg": true,
@@ -796,7 +795,7 @@
 	{
 		"authors": [
 			"Dukemz#7766"
-		]
+		],
 		"date": "29/12/2020",
 		"pg": true,
 		"url": "https://cdn.discordapp.com/attachments/709034490579910730/793530730319708160/unknown.png"
