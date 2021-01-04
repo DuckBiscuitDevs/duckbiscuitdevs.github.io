@@ -1,14 +1,11 @@
-{
-  "images": [
-    {
-      "title": "Example",
-      "date": "4/1/2021",
-      "pg": true,
-      "extratext": "",
-      "url": "https://via.placeholder.com/250",
-      "footer": [
-        ".setFooter(___, goes here", "___)"
-      ]
-    }
-  ]
-}
+[
+  {
+    "authors": [
+      "username, leave array empty if user(s) wish(es) to remain anonymous",
+      "i require the beans"
+    ]
+    "date": "4/1/2021",
+    "pg": true,
+    "url": "https://via.placeholder.com/250",
+  }
+]
