@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "title": "Example",
+      "date": "4/1/2021",
+      "extratext": "",
+      "url": "https://via.placeholder.com/250",
+      "footer": [
+        ".setFooter(___,", "___)"
+      ]
+    }
+  ]
+}
