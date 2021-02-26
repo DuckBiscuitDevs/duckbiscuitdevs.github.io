@@ -1,4 +1,4 @@
-# DuckBiscuitDevs
+# EmerilDevs (formerly DuckBiscuitDevs)
 
 ## A team by Dukemz, TechnoBiscuit and lordFarquhar
 
